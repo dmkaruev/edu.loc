@@ -1,2 +1,5 @@
-let a = true
-console.log(a);
+let lastName = 'Дмитрий'
+const firstName = 'Иванов'
+
+console.log(lastName);
+console.log(firstName);
